@@ -36,7 +36,7 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="#"
+              href="https://www.instagram.com/mr_jawad.4?igsh=Z2oybxQxZ2sweG5h&utm_source=qr"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
